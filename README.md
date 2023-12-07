@@ -12,11 +12,13 @@
 
 <h2>💻 Projeto</h2>
 <p>Neste desafio você deverá criar um jogo chamado Biscoito da Sorte, no qual o usuário, a partir de um clique ou enter, abre um biscoito com a sua sorte do dia. Você aplicará o que aprendeu sobre vários temas, entre eles:
+  <ul>
   - Estrutura de dados HTML
   - Animações com CSS
   - Funções no Javascript
   - Manipulação da DOM
   - Biblioteca JS Math()
-  - Funções *callback*
-  - Arrays
+  <ol>- Funções *callback*</ol>
+  <ol>- Arrays</ol>
+  </ul>
 </p>
